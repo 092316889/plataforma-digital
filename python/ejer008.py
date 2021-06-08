@@ -2,7 +2,7 @@
 esto_es_un_string = 'hola'
 esto_es_otro_string = 'mundo'
 #como concatenar
-print (esto_es_un_string + " " + esto_es_otro_string) #saldra unido hola mundo
+print (esto_es_un_string + "  " + esto_es_otro_string) #saldra unido hola mundo
 
 #COMO hacer mayuscula la letra
 print(esto_es_un_string.upper())
