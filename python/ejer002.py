@@ -1,6 +1,11 @@
-#debo hacer el ejercicio del circulo 
-import math
-radio = int (input('ingrese el radio del circulo: \n' ))
-area = math.pi *(radio*radio)
-print ('el radio de su circulo es: \n' ,radio ,)
-print ('su area es: \n' ,area)
+#jercicio de cuadrado
+print("Calcular el area y perimetro de un cuadrado")
+#entradas de datos
+lado = int(input("Ingrese la medida de un lado del cuadrado: "))
+#CALCULOS
+perimetro = lado * 4 
+area = lado * lado
+print("El area del cuadrado es: ")
+print(area)
+print("El perimetro del cuadrado es: ")
+print(perimetro)
